@@ -1,0 +1,10 @@
+Es un programa básico de aprendizaje donde se utilizan InputStream, PrintStream, excepciones, HashMap y un ArrayList.
+
+El programa consiste en obtener algunos de los medicamentos que se utilizan en un tratamiento de una enfermedad.
+
+El valor de la lista de los medicamentos se obtienen a través de una clave que será el tipo de enfermedad.
+
+Además, se ha añadido una ruta para poder acceder a leer un archivo del ordenador e imprimirlo por pantalla.
+
+
+

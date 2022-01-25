@@ -1,0 +1,7 @@
+1) Indica cuál es el problema de utilizar un Vector con la capacidad por defecto si tuviésemos un 1000 elementos para ser
+añadidos al mismo:
+
+Hay que  tener cuidado con este constructor, ya que si se pretende guardar un número grande de elementos, en este caso
+1000 se tiene que especificar el incremento de la capacidad del vector, si no se quiere desperdiciar
+la memoria el ordenador ya que doblará su capacidad de almacenamiento otros 1000 elementos más.
+
